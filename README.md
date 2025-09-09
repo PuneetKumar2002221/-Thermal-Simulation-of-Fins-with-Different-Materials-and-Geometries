@@ -15,12 +15,11 @@ The project compares materials like **Aluminium, Copper, Nickel, Graphite, and S
 ---
 
 ## 🛠 Tools Used
-- **CAD Software**: SolidWorks 20XX (replace with your version)  
-- **Simulation Tools**: SolidWorks Simulation / ANSYS  
+- **CAD Software**: SolidWorks 2022 
+- **Simulation Tools**: ANSYS  
 - **File Formats**:  
   - `.SLDPRT` – CAD part models  
-  - `.STEP` / `.IGES` – Neutral CAD formats  
-  - `.STL` – For 3D printing (if applicable)  
+  - `.STEP` / `.IGES` – Neutral CAD formats   
   - `.PDF` – Analysis reports  
 
 
